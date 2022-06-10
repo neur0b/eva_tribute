@@ -1,0 +1,55 @@
+body {
+    background-color: #787878;
+  }
+  
+  main {
+    font-family: Courier, monospace;
+    font-size: 1.25rem;
+  }
+
+
+  #title {
+    text-align: center;
+  }
+  
+
+  #img-div {
+    background-color: white;
+    padding: 30px;
+    margin: 20px;
+  }
+  
+  
+  #image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+  }
+  
+  #img-caption {
+    margin:15px 0 -15px;
+    text-align: center;
+  }
+  
+  #tribute-info {
+    background-color: #dddddd;
+    text-align: justify;
+    padding: 30px;
+    border-radius: 15px;
+    margin: 20px;
+  }
+  
+  #bold {
+    font-weight: 800;
+  }
+  
+  h5 {
+    margin: 20px;
+    text-align: center;
+  }
+  
+  a:hover {
+    background-color: black; 
+    color: white;
+  }
